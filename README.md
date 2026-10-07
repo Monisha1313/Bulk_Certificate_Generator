@@ -126,3 +126,7 @@ Index on `(job_id, status)` for fast counts/filters. Tables are created on start
 - Authentication / per-client job ownership.
 - Duplicate detection (same email in one job), idempotency keys for `POST /jobs`.
 - Email delivery of certificates, QR-code verification endpoint, S3 storage.
+
+## Note on AI usage
+
+I used an AI assistant (Claude) to help build this project, as the assignment allows. I ran the application and the test suite (all 24 tests pass), tried the API end to end through the interactive docs, and went through the code to understand how it works. I'm happy to explain any part of it or modify it during the interview.
