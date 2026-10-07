@@ -1,0 +1,11 @@
+{
+  "event_name": "AI Bootcamp 2026",
+  "issuer_name": "AIVerse Club",
+  "issue_date": "2026-10-01",
+  "recipients": [
+    {"name": "Monisha R", "email": "monisha@example.com"},
+    {"name": "Arjun Mehta", "email": "arjun@example.com"},
+    {"name": "", "email": "missing-name@example.com"},
+    {"name": "Bad Email", "email": "not-an-email"}
+  ]
+}
